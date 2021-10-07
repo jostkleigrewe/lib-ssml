@@ -5,7 +5,7 @@
     "description": "SSML Generator",
     "keywords": ["Jostkleigrewe", "Alexa", "SSML"],
     "homepage": "https://projects.jostkleigrewe.com/jostkleigrewe/lib-ssml",
-    "license": "",
+    "license": "MIT",
     "authors": [
         {
             "name": "Sven Jostkleigrewe",
